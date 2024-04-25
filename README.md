@@ -1,4 +1,4 @@
-### Hi there 👋, it's Rukwaro, I'm looking to collaborate on web projects. 
+### Hi there 👋, I'm looking to collaborate on web projects. 
 Also, I'm looking for assistance on learning data science, especially analysis. Share some tips😉.
 
 <!--
