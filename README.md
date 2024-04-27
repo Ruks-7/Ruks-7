@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm looking to collaborate on web projects. 
 Also, I'm looking for assistance on learning data science, especially analysis. Share some tips😉.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ruks-7&theme=highcontrast)](https://git.io/streak-stats)
-
 <!--
 **Ruks-7/Ruks-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
