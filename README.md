@@ -1,17 +1,12 @@
-### Hi there 👋, I'm looking to collaborate on web projects. 
-Also, I'm looking for assistance on learning data science, especially analysis. Share some tips😉.
+### Hi there 👋, I'm Ruks🙂
 
-<!--
-**Ruks-7/Ruks-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on a react project
+- 🌱 I’m currently learning react and python
+- 👯 I’m looking to collaborate on web projects 
+- 🤔 I’m looking for help with data science.
+- 💬 Ask me about vanilla js
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love watching and partcipating in sports 
+
