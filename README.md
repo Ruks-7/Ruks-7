@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with data science.
 - 💬 Ask me about vanilla js
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love watching and partcipating in sports 
+- ⚡ Fun fact: I love watching and participating in sports 
 
