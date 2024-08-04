@@ -10,3 +10,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love watching and participating in sports 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ruks-7&theme=dark)](https://git.io/streak-stats)
