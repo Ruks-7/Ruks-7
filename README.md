@@ -2,7 +2,7 @@
 
 
 
- 🔭 I’m currently working on my full stack project. 
+ 🔭 I’m currently working on my first full stack project. 
 - 🌱 I’m currently learning data science and back-end web development
 - 👯 I’m looking to collaborate on web projects 
 - 🤔 I’m looking for help with data science.
