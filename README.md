@@ -2,8 +2,8 @@
 
 
 
- 🔭 I’m currently not working on anything. I am taking a short break
-- 🌱 I’m currently learning react and the back-end side
+ 🔭 I’m currently working on my full stack project. 
+- 🌱 I’m currently learning data science and back-end web development
 - 👯 I’m looking to collaborate on web projects 
 - 🤔 I’m looking for help with data science.
 - 💬 Ask me about vanilla js
