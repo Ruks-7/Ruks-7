@@ -1,6 +1,6 @@
 # Hello World! I'm Ruks 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/irene-rukwaro-88a78628a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irene-rukwaro-88a78628a)
 
 ## 👩‍💻 About Me
 
@@ -13,7 +13,6 @@ Upcoming full-stack developer with a passion for creating intuitive web experien
 - 🧠 Improving my skills in algorithms and system design
 
 ## 💼 Tech Stack
-<div align="center">
 
 ### Frontend
 <p>
@@ -47,13 +46,13 @@ Upcoming full-stack developer with a passion for creating intuitive web experien
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
 </p>
-</div>
 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruks-7&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruks-7&layout=compact&theme=tokyonight)
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruks-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+</div>
 
 ## 🤝 Let's Connect!
 
