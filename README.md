@@ -51,7 +51,7 @@ Upcoming full-stack developer with a passion for creating intuitive web experien
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruks-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ruks-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ruks' GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect!
